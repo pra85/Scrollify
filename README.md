@@ -5,7 +5,7 @@ A jQuery plugin that assists scrolling and snaps to sections. Touch optimised.
 6KB minified!
 
 ## Demo
-
+sc
 [http://projects.lukehaas.me/scrollify](http://projects.lukehaas.me/scrollify).
 
 ## Basic setup
